@@ -1,0 +1,1 @@
+print("Hello never write developer code in Notepad........!!!!! ")
